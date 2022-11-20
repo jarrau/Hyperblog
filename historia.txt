@@ -12,4 +12,6 @@ Todo esto es un juego.
 
 Master 1
 
+Master 2
+
 Es entretenido escribir cosas--
